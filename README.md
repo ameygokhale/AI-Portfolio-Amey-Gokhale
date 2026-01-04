@@ -1,4 +1,4 @@
-#  Hi, I’m Amey Gokhale
+#  AI Portfolio Amey Gokhale
 
 **AI Engineer | LLM Systems | Applied Machine Learning**
 
