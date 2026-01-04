@@ -184,5 +184,7 @@ I design and build **production-grade AI systems** focused on **LLMs, reasoning 
 
 ## Contact & Links
 
-* **GitHub**: [https://github.com/ameygokhale](https://github.com/ameygokhale)
-* **Portfolio Focus**: AI systems, LLM reliability, evaluation, and safety
+**LinkedIn:** https://www.linkedin.com/in/amey-gokhale  
+**Email:** ameygokhale1@gmail.com  
+**GitHub**: [https://github.com/ameygokhale](https://github.com/ameygokhale)
+  
