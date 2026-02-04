@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🤖 AI & Automation Portfolio
+# AI & Automation Portfolio
 ### Amey Gokhale
 **AI Engineer | LLM Systems | Reinforcement Learning | AI Safety**
 
@@ -12,7 +12,7 @@
 
 ---
 
-### 🧠 Engineering Intelligent Systems
+### Engineering Intelligent Systems
 I design and build **production-grade AI systems**.
 My work spans **Reinforcement Learning**, **Financial Fraud Detection**, and **LLM Agents**, with a specialized focus on **Evaluation & Safety**.
 
@@ -20,34 +20,34 @@ My work spans **Reinforcement Learning**, **Financial Fraud Detection**, and **L
 
 ---
 
-# 🏆 Signature Projects
+# Signature Projects
 *Advanced Machine Learning, Deep Learning, and Reinforcement Learning applications.*
 
-### 🛡️ [Aegis: The AI Financial Guardian](https://github.com/ameygokhale/Aegis_The-AI-Financial-Guardian-Adv.-ML-and-Intelligent-Systems)
+### [Aegis: The AI Financial Guardian](https://github.com/ameygokhale/Aegis_The-AI-Financial-Guardian-Adv.-ML-and-Intelligent-Systems)
 **Domain:** `FinTech` `Anomaly Detection` `Advanced ML`
 A robust financial security system designed to detect fraud and transactional anomalies in real-time.
 * **Tech:** Advanced ML classifiers, Anomaly Detection algorithms.
 * **Impact:** Protects financial integrity by identifying suspicious patterns with high precision.
 
-### ⚡ [The Grid Guardian](https://github.com/ameygokhale/The-Grid-Guardian--Reinforcement-training)
+### [The Grid Guardian](https://github.com/ameygokhale/The-Grid-Guardian--Reinforcement-training)
 **Domain:** `Reinforcement Learning (RL)` `Optimization`
 An autonomous agent trained to optimize resource allocation and grid stability using Reinforcement Learning.
 * **Tech:** Q-Learning / Deep Q-Networks (DQN), Gym environments.
 * **Impact:** Demonstrates autonomous decision-making in dynamic, resource-constrained environments.
 
-### 👗 [TrendSense AI: Autonomous Fashion Curator](https://github.com/ameygokhale/TrendSense-AI-The-Autonomous-Fashion-Curator--Deep-Learning-and-Neural-Networ)
+### [TrendSense AI: Autonomous Fashion Curator](https://github.com/ameygokhale/TrendSense-AI-The-Autonomous-Fashion-Curator--Deep-Learning-and-Neural-Networ)
 **Domain:** `Computer Vision` `Deep Learning` `Neural Networks`
 A deep learning system that analyzes fashion trends and curates styles autonomously.
 * **Tech:** Convolutional Neural Networks (CNNs), Image Processing.
 * **Impact:** Automates visual trend analysis for e-commerce and retail intelligence.
 
-### 📉 [Operation Churn Shield](https://github.com/ameygokhale/Operation-Churn-Shield--Ai-ML-essentials-project)
+### [Operation Churn Shield](https://github.com/ameygokhale/Operation-Churn-Shield--Ai-ML-essentials-project)
 **Domain:** `Predictive Analytics` `Business Intelligence`
 A machine learning pipeline focused on customer retention and churn prediction.
 * **Tech:** XGBoost/Random Forest, Feature Engineering.
 * **Impact:** Identifies at-risk customers to enable proactive retention strategies.
 
-### 🔍 [Project Veracity](https://github.com/ameygokhale/Project-Veracity--NLP)
+### [Project Veracity](https://github.com/ameygokhale/Project-Veracity--NLP)
 **Domain:** `NLP` `Text Analysis`
 A Natural Language Processing tool designed to analyze text for authenticity and fact verification.
 * **Tech:** NLP Transformers, Text Classification.
@@ -55,7 +55,7 @@ A Natural Language Processing tool designed to analyze text for authenticity and
 
 ---
 
-# 🤖 Generative AI & LLM Engineering
+# Generative AI & LLM Engineering
 *RAG Systems, Agents, and Prompt Engineering.*
 
 | Project | Focus | Description |
@@ -68,7 +68,7 @@ A Natural Language Processing tool designed to analyze text for authenticity and
 
 ---
 
-# ⚖️ AI Safety, Evaluation & Reliability
+# AI Safety, Evaluation & Reliability
 *Ensuring AI systems are robust, safe, and measurable.*
 
 * **[Safety Guardrails System](https://github.com/ameygokhale/safety-guardrails-system)**
@@ -82,7 +82,7 @@ A Natural Language Processing tool designed to analyze text for authenticity and
 
 ---
 
-# 👁️ Computer Vision & Applied ML
+# Computer Vision & Applied ML
 *Real-world applications of classification and detection.*
 
 | Project | Tech Stack | Description |
@@ -93,7 +93,7 @@ A Natural Language Processing tool designed to analyze text for authenticity and
 
 ---
 
-# 📫 Contact
+# Contact
 
 **LinkedIn:** [https://www.linkedin.com/in/amey-gokhale](https://www.linkedin.com/in/amey-gokhale)
 **Email:** [ameygokhale1@gmail.com](mailto:ameygokhale1@gmail.com)
