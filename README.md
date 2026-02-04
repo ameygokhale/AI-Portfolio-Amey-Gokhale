@@ -1,190 +1,100 @@
-#  AI Portfolio Amey Gokhale
+<div align="center">
 
-**AI Engineer | LLM Systems | Applied Machine Learning**
+# 🤖 AI & Automation Portfolio
+### Amey Gokhale
+**AI Engineer | LLM Systems | Reinforcement Learning | AI Safety**
 
-I design and build **production-grade AI systems** focused on **LLMs, reasoning agents, evaluation frameworks, and safety-aware AI pipelines**. My work spans retrieval-augmented generation, prompt engineering, decision support, and end-to-end AI workflows with a strong emphasis on **reliability, evaluation, and real-world deployment**.
-
----
-
-## Core Skills
-
-* **Large Language Models (LLMs)**: RAG, prompt engineering, multi-step reasoning, structured outputs
-* **AI Systems**: Evaluation pipelines, safety guardrails, decision-support systems
-* **Machine Learning**: Classification, computer vision, benchmarking
-* **Tools & Frameworks**: Python, LangChain-style workflows, vector databases, evaluation harnesses
-* **AI Safety & Reliability**: Guardrails, prompt validation, benchmarking, testing
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org)
+[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com)
+[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)](https://langchain.com)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co)
 
 ---
 
-## Featured Projects
+### 🧠 Engineering Intelligent Systems
+I design and build **production-grade AI systems**.
+My work spans **Reinforcement Learning**, **Financial Fraud Detection**, and **LLM Agents**, with a specialized focus on **Evaluation & Safety**.
 
-### RAG Chatbot
-
-**Retrieval-Augmented Generation system for accurate, context-aware responses**
-
-* Built an end-to-end RAG pipeline combining document retrieval and LLM generation
-* Reduced hallucinations by grounding answers in external knowledge
-* Modular architecture for easy data source expansion
-
-🔗 [https://github.com/ameygokhale/ragchatbot](https://github.com/ameygokhale/ragchatbot)
+</div>
 
 ---
 
-### Face Mask & Temperature Detection
+# 🏆 Signature Projects
+*Advanced Machine Learning, Deep Learning, and Reinforcement Learning applications.*
 
-**Computer vision system for public safety monitoring**
+### 🛡️ [Aegis: The AI Financial Guardian](https://github.com/ameygokhale/Aegis_The-AI-Financial-Guardian-Adv.-ML-and-Intelligent-Systems)
+**Domain:** `FinTech` `Anomaly Detection` `Advanced ML`
+A robust financial security system designed to detect fraud and transactional anomalies in real-time.
+* **Tech:** Advanced ML classifiers, Anomaly Detection algorithms.
+* **Impact:** Protects financial integrity by identifying suspicious patterns with high precision.
 
-* Real-time face mask detection using deep learning
-* Integrated temperature detection logic for health compliance
-* Designed for edge or surveillance-based deployment
+### ⚡ [The Grid Guardian](https://github.com/ameygokhale/The-Grid-Guardian--Reinforcement-training)
+**Domain:** `Reinforcement Learning (RL)` `Optimization`
+An autonomous agent trained to optimize resource allocation and grid stability using Reinforcement Learning.
+* **Tech:** Q-Learning / Deep Q-Networks (DQN), Gym environments.
+* **Impact:** Demonstrates autonomous decision-making in dynamic, resource-constrained environments.
 
-🔗 [https://github.com/ameygokhale/face-mask-temp-detection](https://github.com/ameygokhale/face-mask-temp-detection)
+### 👗 [TrendSense AI: Autonomous Fashion Curator](https://github.com/ameygokhale/TrendSense-AI-The-Autonomous-Fashion-Curator--Deep-Learning-and-Neural-Networ)
+**Domain:** `Computer Vision` `Deep Learning` `Neural Networks`
+A deep learning system that analyzes fashion trends and curates styles autonomously.
+* **Tech:** Convolutional Neural Networks (CNNs), Image Processing.
+* **Impact:** Automates visual trend analysis for e-commerce and retail intelligence.
 
----
+### 📉 [Operation Churn Shield](https://github.com/ameygokhale/Operation-Churn-Shield--Ai-ML-essentials-project)
+**Domain:** `Predictive Analytics` `Business Intelligence`
+A machine learning pipeline focused on customer retention and churn prediction.
+* **Tech:** XGBoost/Random Forest, Feature Engineering.
+* **Impact:** Identifies at-risk customers to enable proactive retention strategies.
 
-### Email Classification System
-
-**Automated email categorization using ML**
-
-* Trained classifiers to label emails by intent and priority
-* Improved inbox triaging and workflow automation
-* Focused on precision and recall optimization
-
-🔗 [https://github.com/ameygokhale/emailclassifier-](https://github.com/ameygokhale/emailclassifier-)
-
----
-
-### AI Decision Support System
-
-**Data-driven decision intelligence platform**
-
-* Combined structured inputs with AI reasoning
-* Generated explainable recommendations for decision-makers
-* Designed for extensibility across domains
-
-🔗 [https://github.com/ameygokhale/ai-decision-support-system](https://github.com/ameygokhale/ai-decision-support-system)
-
----
-
-## LLM Evaluation & Optimization
-
-### LLM Evaluation Benchmark
-
-**Benchmarking framework for LLM performance**
-
-* Evaluated LLMs across accuracy, reasoning depth, and consistency
-* Enabled comparative analysis between models and prompts
-* Designed for repeatable, test-driven evaluation
-
-🔗 [https://github.com/ameygokhale/llm-evaluation-benchmark](https://github.com/ameygokhale/llm-evaluation-benchmark)
+### 🔍 [Project Veracity](https://github.com/ameygokhale/Project-Veracity--NLP)
+**Domain:** `NLP` `Text Analysis`
+A Natural Language Processing tool designed to analyze text for authenticity and fact verification.
+* **Tech:** NLP Transformers, Text Classification.
+* **Impact:** Combats misinformation by automating text credibility scoring.
 
 ---
 
-### Prompt Evaluation Lab
+# 🤖 Generative AI & LLM Engineering
+*RAG Systems, Agents, and Prompt Engineering.*
 
-**Experimental environment for prompt testing**
-
-* Systematic prompt experimentation and scoring
-* Identified failure modes and optimization opportunities
-* Supports regression testing for prompt updates
-
-🔗 [https://github.com/ameygokhale/prompt-evaluation-lab](https://github.com/ameygokhale/prompt-evaluation-lab)
-
----
-
-### Prompt Optimization System
-
-**Automated prompt improvement pipeline**
-
-* Iteratively refined prompts using evaluation feedback
-* Improved output quality, structure, and consistency
-* Useful for production LLM deployments
-
-🔗 [https://github.com/ameygokhale/prompt-optimization-system](https://github.com/ameygokhale/prompt-optimization-system)
+| Project | Focus | Description |
+| :--- | :--- | :--- |
+| **[RAG Chatbot](https://github.com/ameygokhale/ragchatbot)** | `RAG` | Retrieval-Augmented Generation pipeline grounded in external data to reduce hallucinations. |
+| **[Multi-Step Reasoning Agent](https://github.com/ameygokhale/multi-step-reasoning-agent)** | `Agents` | An autonomous agent capable of Chain-of-Thought (CoT) reasoning and tool usage for complex tasks. |
+| **[Prompt Tool Workflow](https://github.com/ameygokhale/prompt-tool-workflow)** | `Orchestration` | A composable system for integrating LLMs with external APIs and tools. |
+| **[Structured Output Generator](https://github.com/ameygokhale/structured-output-generator)** | `Engineering` | Enforcing strict JSON schemas for reliable downstream integration of LLM outputs. |
+| **[Domain-Specific Assistant](https://github.com/ameygokhale/domain-specific-assistant)** | `Fine-tuning` | Specialized assistant constrained to specific knowledge domains for enterprise accuracy. |
 
 ---
 
-## AI Safety & Reliability
+# ⚖️ AI Safety, Evaluation & Reliability
+*Ensuring AI systems are robust, safe, and measurable.*
 
-### Safety Guardrails System
-
-**AI safety enforcement layer**
-
-* Input/output validation for LLM responses
-* Prevented unsafe, irrelevant, or policy-violating outputs
-* Designed as a plug-and-play middleware
-
-🔗 [https://github.com/ameygokhale/safety-guardrails-system](https://github.com/ameygokhale/safety-guardrails-system)
-
----
-
-##  Advanced LLM Agents & Workflows
-
-### Multi-Step Reasoning Agent
-
-**Agent capable of decomposing and solving complex tasks**
-
-* Chain-of-thought style reasoning
-* Tool usage and intermediate state tracking
-* Improved reliability on multi-hop problems
-
-🔗 [https://github.com/ameygokhale/multi-step-reasoning-agent](https://github.com/ameygokhale/multi-step-reasoning-agent)
+* **[Safety Guardrails System](https://github.com/ameygokhale/safety-guardrails-system)**
+    * *Middleware* to validate inputs/outputs and block unsafe content before it reaches the user.
+* **[LLM Evaluation Benchmark](https://github.com/ameygokhale/llm-evaluation-benchmark)**
+    * A test-driven framework to compare LLM performance across accuracy, reasoning, and consistency.
+* **[Prompt Evaluation Lab](https://github.com/ameygokhale/prompt-evaluation-lab)**
+    * Experimental environment for regression testing prompts and optimizing token usage.
+* **[Prompt Optimization System](https://github.com/ameygokhale/prompt-optimization-system)**
+    * Automated feedback loops to iteratively improve prompt quality.
 
 ---
 
-### Prompt Tool Workflow
+# 👁️ Computer Vision & Applied ML
+*Real-world applications of classification and detection.*
 
-**Composable LLM tool orchestration system**
-
-* Integrated prompts with external tools and APIs
-* Enabled structured task execution
-* Designed for agentic workflows
-
-🔗 [https://github.com/ameygokhale/prompt-tool-workflow](https://github.com/ameygokhale/prompt-tool-workflow)
-
----
-
-### Domain-Specific Assistant
-
-**Specialized AI assistant tailored to a specific domain**
-
-* Constrained knowledge scope for higher accuracy
-* Domain-aware prompting and response validation
-* Ideal for enterprise use cases
-
-🔗 [https://github.com/ameygokhale/domain-specific-assistant](https://github.com/ameygokhale/domain-specific-assistant)
+| Project | Tech Stack | Description |
+| :--- | :--- | :--- |
+| **[Face Mask & Temp Detection](https://github.com/ameygokhale/face-mask-temp-detection)** | `OpenCV` `Deep Learning` | Real-time compliance monitoring system for public health safety. |
+| **[Email Classification](https://github.com/ameygokhale/emailclassifier-)** | `NLP` `Classification` | Automated inbox triaging using intent recognition. |
+| **[AI Decision Support](https://github.com/ameygokhale/ai-decision-support-system)** | `Analytics` | Data-driven recommendation engine for executive decision-making. |
 
 ---
 
-## Prompt Engineering & Output Design
+# 📫 Contact
 
-### Structured Output Generator
-
-**Reliable structured responses from LLMs**
-
-* Enforced schemas (JSON / structured formats)
-* Reduced parsing errors in downstream systems
-* Essential for production AI pipelines
-
-🔗 [https://github.com/ameygokhale/structured-output-generator](https://github.com/ameygokhale/structured-output-generator)
-
----
-
-### Prompt Pattern Library
-
-**Reusable prompt engineering patterns**
-
-* Catalog of proven prompt templates
-* Covers reasoning, extraction, summarization, and safety
-* Accelerates LLM development
-
-🔗 [https://github.com/ameygokhale/prompt-pattern-library](https://github.com/ameygokhale/prompt-pattern-library)
-
----
-
-## Contact & Links
-
-**LinkedIn:** https://www.linkedin.com/in/amey-gokhale  
-**Email:** ameygokhale1@gmail.com  
-**GitHub**: [https://github.com/ameygokhale](https://github.com/ameygokhale)
-  
+**LinkedIn:** [https://www.linkedin.com/in/amey-gokhale](https://www.linkedin.com/in/amey-gokhale)
+**Email:** [ameygokhale1@gmail.com](mailto:ameygokhale1@gmail.com)
+**GitHub:** [https://github.com/ameygokhale](https://github.com/ameygokhale)
